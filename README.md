@@ -8,9 +8,9 @@ To Use
 
 2.Install modelsim. Suggest version 10.1c
 
-3.download the preject
+3.download the project
 
-4. complie and run
+4.Complie and Run
 
 # set modelsim license and execute path correctly
 
