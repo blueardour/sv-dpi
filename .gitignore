@@ -3,3 +3,5 @@
 *.swp
 transcript
 work
+software/seq_main
+software/gmon.out
